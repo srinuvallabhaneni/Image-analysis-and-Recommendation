@@ -1,0 +1,9 @@
+scipy
+pymongo
+numpy
+sklearn
+requests
+pandas
+tensorly
+matplotlib
+docutils
