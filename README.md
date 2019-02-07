@@ -2,21 +2,26 @@
 
 How to run
 
-pip install -r requirements.txt
-python main.py
+1. pip install -r requirements.txt
+2. python main.py
+
 How to use Run “python main.py” Menu Options:
 
-Task 1 2a. Task 2a 2b. Task 2b
-Task 3
-Task 4 5a. Task 5a 5b. Task 5b RUN 5a before this to build index structure 6a. Task 6a With k 6aa Task 6aa without k 6b. Task 6b
-Load data
-Quit
+1. Task 1 
+2. Task 2a ; Task 2b
+3. Task 3
+4. Task 4 
+5. Task 5a ; Task 5b (RUN 5a before this to build index structure)
+6. Task 6a With k ; 6aa without k ; Task 6b
+7. Load data
+8. Quit
 Please run task 8 - load data before executing any file - This is a one time process for every system.
 
 Once the data loading is done and the mongodb is up and running:
 
 As all tasks are dependent on task 1, make sure to run task 1 after data loading is done before running any task.
 Then, execute any task as needed according to the instructions on the screen.
+
 Task 1: Implement a program which, given a value k, creates an image-image similarity graph, such that from each image, there are k outgoing edges to k most similar/related images to it.
 
 Task 2: Given the image-image graph, identify c clusters (for a user supplied c) using two distinct algorithms. You can use the graph partitioning/clustering algorithms of your choice for this task. Visualize the resulting image clusters.
