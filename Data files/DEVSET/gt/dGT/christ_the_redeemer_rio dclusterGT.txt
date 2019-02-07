@@ -1,0 +1,23 @@
+1,foggy front view
+2,clean sky front view
+3,cloudy front view
+4,white clouds front view
+5,artistic view
+6,people/tourists view
+7,back view
+8,distant shot dawn view
+9,distant shot dawn over the city
+10,distant shot cloudy/foggy view
+11,bottom-up front view
+12,night view/long exposure
+13,backlit front view/image burn
+14,bottom-up left view 
+15,buttom-up right view
+16,lateral view
+17,distant shot hill view
+18,informing panels/advertisement
+19,hill view
+20,head shot
+21,details/body parts view
+22,distant foggy side view
+23,back foggy view

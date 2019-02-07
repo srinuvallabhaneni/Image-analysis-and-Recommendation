@@ -1,0 +1,12 @@
+1,frontal distant shot
+2,frontal close view
+3,information plates
+4,miniature
+5,angle view
+6,rock
+7,obstructed view
+8,creative view
+9,surroundings
+10,partial view
+11,near view
+12,cave

@@ -1,0 +1,24 @@
+1,portrait statues
+2,pharaoh statues
+3,whole white statues
+4,golden statues
+5,close-ups
+6,jewelry
+7,cupola
+8,paintings
+9,black statues
+10,drawings
+11,engraved stone
+12,artefacts
+13,night coloured view
+14,engraved statues
+15,inside view
+16,bust statue
+17,frontal view
+18,mummy
+19,small statues
+20,partial view
+21,exterior statues
+22,sunset view
+23,walls
+24,placard

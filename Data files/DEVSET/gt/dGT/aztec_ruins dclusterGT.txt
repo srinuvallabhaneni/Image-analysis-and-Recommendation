@@ -1,0 +1,25 @@
+1,outside window
+2,interior tunneled gates
+3,outside crossing corridors
+4,winter view
+5,stone circle partial view
+6,dark room view out
+7,small model view
+8,inside window view
+9,wall close-up
+10,full stone circles view
+11,round/pallete monument
+12,cubicals view
+13,road ahead view
+14,main entrance
+15,advertising panel
+16,rectangle-shaped stone chamber
+17,partial cubicals view
+18,partial ruins view
+19,field view
+20,round stones
+21,artefacts
+22,outside gates view
+23,inside/basement entrance
+24,black and white
+25,wood work details

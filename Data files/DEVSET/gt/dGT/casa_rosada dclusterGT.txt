@@ -1,0 +1,25 @@
+1,night colored view
+2,front entrance close-up
+3,guards and flag view
+4,framed/artistic view
+5,night/dawn courtyard/fountain view 
+6,sunny day front/side view
+7,daylight courtyard/fountain view 
+8,obstructed/through fence view
+9,courtyard white hone/fountain view
+10,partial monument view
+11,backlit clear sky view 
+12,exterior architectural details
+13,painting
+14,colored hone hallways
+15,small statue on plant vase
+16,courtyard view through columns
+17,exterior columns close-up
+18,ceiling and chandelier view
+19,interior objects/details
+20,colored rosette entry
+21,stained glass 
+22,meeting room
+23,interior rooms/details view
+24,cloudy/gloomy front view
+25,surrounding view

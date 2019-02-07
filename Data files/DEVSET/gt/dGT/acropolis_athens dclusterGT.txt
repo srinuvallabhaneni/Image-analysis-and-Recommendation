@@ -1,0 +1,21 @@
+1,Parthenon columns
+2,stadium 
+3,distant hill overview
+4,Erechtheion column scultures views
+5,partial view
+6,columns details
+7,night view
+8,drawings
+9,columns narrow view
+10,Erechtheion column statues
+11,obstructed view of columns
+12,site details
+13,creative views
+14,sculptures
+15,columns side view
+16,information placards
+17,other details
+18,flag
+19,surroundings
+20,wall ruins
+21,hill view

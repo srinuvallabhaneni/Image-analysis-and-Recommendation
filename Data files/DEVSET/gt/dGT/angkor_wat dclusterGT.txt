@@ -1,0 +1,25 @@
+1,wall details
+2,large view
+3,distant view
+4,sculptures
+5,lake view
+6,lake twilight view
+7,monument and courtyard view
+8,inside courtyard view
+9,partial view
+10,entrance view
+11,inside view
+12,creative view
+13,backlight view
+14,narrow view
+15,black and white
+16,close-ups
+17,sculptured stone
+18,narrow angle view
+19,columns
+20,stairs
+21,obstructed view
+22,inside colored view
+23,monuments and nature
+24,other views
+25,exterior sculptures

@@ -1,0 +1,25 @@
+1,large frontal view
+2,exterior arcways
+3,marble close up
+4,columns
+5,tower narrow view
+6,tower large frontal view
+7,ceiling
+8,inside archways
+9,patial right side courtyard view
+10,large garden view
+11,partial left side courtyard view
+12,courtyard
+13,narrow frontal view
+14,partial view
+15,over the tree monument view
+16,close-ups
+17,hall view
+18,white marble part
+19,white cupola
+20,courtyard partial view
+21,inside views
+22,view from monument
+23,courtyard art
+24,entrance
+25,information placards

@@ -1,0 +1,22 @@
+1,sculpture pattern
+2,sculpture close-up
+3,black circle
+4,sculptures
+5,inside view details
+6,frontal view
+7,corner view
+8,entrance
+9,inside sculpture
+10,sculptured walls
+11,paintings
+12,inside view
+13,outside view
+14,window
+15,gallery
+16,black and white
+17,creative view
+18,white sculptures partial view
+19,wall sculpture close-up
+20,partial view
+21,sculpture top
+22,white sculptures

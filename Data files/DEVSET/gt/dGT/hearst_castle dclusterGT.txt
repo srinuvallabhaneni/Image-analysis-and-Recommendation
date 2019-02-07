@@ -1,0 +1,24 @@
+1,partial view
+2,blue mosaic
+3,statues
+4,obstructed view
+5,narrow view
+6,tower
+7,sculptures
+8,main saloon
+9,columns
+10,entrance
+11,main saloon statue
+12,surroundings
+13,drawings
+14,objects
+15,distant obstructed view
+16,wood sculptures
+17,paintings
+18,room
+19,saloon
+20,ceiling
+21,saloon table
+22,golden sculptures
+23,buildings and nature
+24,close-ups

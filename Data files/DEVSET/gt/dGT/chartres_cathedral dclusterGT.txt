@@ -1,0 +1,25 @@
+1,front whole view
+2,left whole view
+3,black and white
+4,stained glass details
+5,light festival/video projections
+6,interior wall of statues
+7,stained glass view
+8,infroming panels
+9,round stained glass view
+10,entrance statues
+11,main entrance
+12,lateral view
+13,stained glass through columns view
+14,artistic view
+15,outside architectural details
+16,interior objects/achitectural details
+17,chandelier/interior lights
+18,main entrance cupola
+19,inside cupola
+20,night/dawn view
+21,exterior partial view
+22,distant/partial shot
+23,backlit dark view
+24,city view from top
+25,tower view

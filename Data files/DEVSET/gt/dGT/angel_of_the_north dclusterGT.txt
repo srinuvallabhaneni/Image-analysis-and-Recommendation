@@ -1,0 +1,25 @@
+1,details
+2,front top partial view
+3,left top partial view
+4,front whole/partial view
+5,buttom-up view
+6,front left view
+7,front right view
+8,wing view
+9,inscriptions
+10,distant shot
+11,toy model
+12,creative views
+13,rusty-colored side view
+14,backlit view
+15,back whole view
+16,head shot
+17,back left angle view
+18,body parts view
+19,lateral view
+20,twiligth
+21,view from the trees/field
+22,cloudy front/angle view
+23,black and white
+24,winter view
+25,backlit clean sky view

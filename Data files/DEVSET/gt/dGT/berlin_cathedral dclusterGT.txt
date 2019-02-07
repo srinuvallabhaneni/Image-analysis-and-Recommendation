@@ -1,0 +1,25 @@
+1,light festival-video projection 
+2,dawn whole view
+3,view from the river
+4,daylight whole view from park
+5,dome close-up
+6,dome partial view
+7,altar arcade view
+8,green park from top
+9,daylight partial-side view
+10,distant shot
+11,tower view
+12,statues
+13,chandelier
+14,outside partial buttom-up view
+15,pipe organ view
+16,graves
+17,architectural details
+18,main entrance
+19,down river distant view
+20,round stained
+21,inside darkish close-up
+22,inside object close-up
+23,object details
+24,small scale model
+25,city view from top

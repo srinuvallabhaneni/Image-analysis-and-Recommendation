@@ -1,0 +1,25 @@
+1,left side whole view
+2,front whole view
+3,right side hole view
+4,framed/artistic view
+5,dawn view
+6,cloudy backlit view
+7,back whole view
+8,back left side view
+9,night view
+10,back left view
+11,left close view
+12,right close view
+13,front close-up view
+14,light festival/video projection/laser game
+15,back close-up top view
+16,front close-up top statue view
+17,left close-up top statue view
+18,right close-up top statue view
+19,lateral view
+20,architectural details
+21,columns bottom view
+22,early evening lights
+23,boulevard/distant shot
+24,informing panels
+25,art activities

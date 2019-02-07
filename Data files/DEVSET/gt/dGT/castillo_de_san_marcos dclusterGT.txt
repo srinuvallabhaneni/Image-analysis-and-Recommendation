@@ -1,0 +1,25 @@
+1,canon details
+2,wall details
+3,short fixed cannon view
+4,long cannon and cannonball view
+5,monument close-up objects
+6,gunners view
+7,ramparts and flags view
+8,interior light gold view
+9,small tower corner view
+10,stone fence view
+11,monument parts/close-up view
+12,courtyard view 
+13,large tower corver view
+14,small tower right view
+15,large tower view from top
+16,large tower right view
+17,small tower left view
+18,entrance view
+19,oven yard view
+20,distant shot/field view
+21,bridge view
+22,informing panels
+23,basement/inside view
+24,panoramic view
+25,artistic view

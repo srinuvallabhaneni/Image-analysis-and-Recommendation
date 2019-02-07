@@ -1,0 +1,25 @@
+1,front side whole view
+2,front whole stairs close-up
+3,lake wall view
+4,night view
+5,corner\two sides whole view
+6,people\tourists view
+7,bottom stairs stone\dragon head view
+8,architectural details
+9,black and white
+10,artistic view
+11,smarll towers yard
+12,stairs close-up with humans
+13,informing panels
+14,ruins shady wood view
+15,top view
+16,backlit cloudy view
+17,surrounding monuments
+18,view from top
+19,distant\field shot
+20,thatched house
+21,edge view
+22,partial cloudy view
+23,surrounding monuments close-up
+24,surrounding monuments top view
+25,architectural objects view

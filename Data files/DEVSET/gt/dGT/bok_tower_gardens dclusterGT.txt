@@ -1,0 +1,25 @@
+1,small garden statue
+2,coloured fountain
+3,fish pool
+4,birds on lake
+5,flowers/nature close-up
+6,bottom-up/narrow tower view
+7,inscription/informing panel
+8,tower entrance/bottom view
+9,night view
+10,details
+11,front whole/lake tower view
+12,creative view
+13,distant shot
+14,small animals
+15,insects close-up shot
+16,top tower view
+17,architectural details
+18,decorative interior view
+19,flower thicket
+20,metal fence
+21,yard monument
+22,people/turists relaxing
+23,surrounding trees/meadow/lakes
+24,courtyard view
+25,garden main entrance

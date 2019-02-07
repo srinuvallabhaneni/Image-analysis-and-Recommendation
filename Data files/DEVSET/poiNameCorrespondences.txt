@@ -1,0 +1,30 @@
+angel of the north	angel_of_the_north
+big ben	big_ben
+hearst castle	hearst_castle
+la madeleine	la_madeleine
+pont alexandre iii	pont_alexandre_iii
+neues museum	neues_museum
+montezuma castle	montezuma_castle
+cn tower	cn_tower
+acropolis athens	acropolis_athens
+agra fort	agra_fort
+albert memorial	albert_memorial
+altes museum	altes_museum
+amiens cathedral	amiens_cathedral
+angkor wat	angkor_wat
+ara pacis	ara_pacis
+arc de triomphe	arc_de_triomphe
+aztec ruins	aztec_ruins
+berlin cathedral	berlin_cathedral
+bok tower gardens	bok_tower_gardens
+brandenburg gate	brandenburg_gate
+cabrillo	cabrillo
+casa batllo	casa_batllo
+casa rosada	casa_rosada
+castillo de san marcos	castillo_de_san_marcos
+chartres cathedral	chartres_cathedral
+chichen itza	chichen_itza
+christ the redeemer rio	christ_the_redeemer_rio
+civic center san francisco	civic_center_san_francisco
+cologne cathedral	cologne_cathedral
+colosseum	colosseum

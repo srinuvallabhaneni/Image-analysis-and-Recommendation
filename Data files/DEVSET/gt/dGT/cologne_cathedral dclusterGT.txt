@@ -1,0 +1,25 @@
+1,graves
+2,candles
+3,dark interior view
+4,inside fences and nets view
+5,inside stairs\passing corridors 
+6,stained glass through columns view
+7,city shot
+8,top partial view
+9,inside art objects\details
+10,partial monument view
+11,lateral monument view\entrance
+12,bottom monument view\entrance
+13,buttom-up entrance\two towers view
+14,buttom-up whole tower view
+15,night view
+16,city view from top
+17,exterior architectural objects\scultures
+18,informing panels\inscriptions
+19,whole cupola view
+20,entrance close-up
+21,black and white
+22,stained glass window view
+23,stained glass details
+24,creative view
+25,interior coloured arcades

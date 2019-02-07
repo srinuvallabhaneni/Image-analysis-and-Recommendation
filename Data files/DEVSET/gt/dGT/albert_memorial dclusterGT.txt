@@ -1,0 +1,22 @@
+1,group of statues
+2,creative views
+3,statue close-up
+4,narrow view
+5,large view
+6,golden statue
+7,engraved wall
+8,close-ups
+9,golden fence
+10,corner view
+11,engraved wall close-up
+12,night view
+13,black and white
+14,partial view
+15,detailed top view
+16,backlight view
+17,obstructed view
+18,group of statues obstructed view
+19,statues on clouded sky
+20,statue details with monument in background
+21,winter view
+22,facing royal albert hall

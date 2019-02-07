@@ -1,0 +1,25 @@
+1,night view
+2,black and white
+3,creative view
+4,exteriour close-up view
+5,whole view
+6,armor view
+7,inside columns wall view
+8,inside whole center\maze view
+9,exterior partial view
+10,panoramic view
+11,top partial view
+12,cental walls\maze close-up
+13,informing\advertisement  boards
+14,gates\arcade entrace
+15,view from air
+16,under\between the ruins view
+17,inside tourists view
+18,outside tourists view
+19,ruins close-up
+20,architectural details
+21,shot from city
+22,inscriptions
+23,view from the trees
+24,interior central maze and wall view
+25,interior artifacts\statues

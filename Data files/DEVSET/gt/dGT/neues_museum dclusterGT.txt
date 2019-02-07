@@ -1,0 +1,25 @@
+1,engraved stone close-up
+2,bust sculptures
+3,face sculptures
+4,columns
+5,paintings
+6,exhibits displayed
+7,inside view
+8,artefacts
+9,jewelry
+10,windows
+11,statues
+12,inside view window
+13,outside view
+14,portrait view
+15,surroundings
+16,engraved stone
+17,creative view
+18,information
+19,walls
+20,ceiling window
+21,other sculptures
+22,column close up
+23,pharaonic tomb
+24,close-ups
+25,pharaonic tomb partial view

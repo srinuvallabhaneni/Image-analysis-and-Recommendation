@@ -1,0 +1,13 @@
+1,left top view
+2,whole view
+3,front bottom-up view
+4,front/partial top view
+5,distant shot city background
+6,explorers figurines view
+7,informing panels
+8,hill view
+9,advertising/entrance panels
+10,back whole view
+11,close shot turists view
+12,courtyard left view
+13,inside painting

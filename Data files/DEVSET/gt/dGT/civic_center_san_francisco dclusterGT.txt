@@ -1,0 +1,25 @@
+1,framed/artistic view
+2,night view
+3,dawn view
+4,inside cupola view
+5,inside color view
+6,people/tourists view
+7,big red flower view
+8,view from the garden trees
+9,black and white
+10,front guardian statue view
+11,arhitectural details
+12,inside art objects
+13,informing panels/indicators
+14,front whole view
+15,wall sculptures close-up
+16,front close-up
+17,entrance view
+18,tower view
+19,panoramic view
+20,front yard art object/statue close-up
+21,interior view
+22,surrounding buildings
+23,horse and rider statue
+24,partial side view
+25,front side view

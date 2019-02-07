@@ -1,0 +1,25 @@
+1,frontal view
+2,inside view
+3,stained glass
+4,floor detailed view
+5,frontal narrow view
+6,creative view
+7,sculpture
+8,partial view
+9,engraved detailed wall
+10,archway
+11,statues
+12,obstructed view
+13,archway sculpture
+14,close-ups
+15,inside view ceiling
+16,round window
+17,stone sculpture
+18,inside view low light
+19,night view
+20,roof
+21,side view
+22,narrow view
+23,inside detailed view
+24,sculpture red background
+25,golden sculpture

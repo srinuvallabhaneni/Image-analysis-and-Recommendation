@@ -1,0 +1,24 @@
+1,night large view
+2,night partial view
+3,cupola night view
+4,stairs
+5,seen from below
+6,black and white
+7,cupola
+8,inside wall
+9,under the arc
+10,large view
+11,sculptures
+12,sculpture close-up
+13,sculptures night view
+14,narrow view
+15,obstructed view
+16,partial view
+17,distant view
+18,top view
+19,view from arc
+20,miniature
+21,statues
+22,other
+23,wall information
+24,seen frow velow cupola

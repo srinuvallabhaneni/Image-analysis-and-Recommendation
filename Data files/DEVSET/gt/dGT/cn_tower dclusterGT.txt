@@ -1,0 +1,24 @@
+1,tower peak
+2,partial view
+3,night partial view
+4,whole view
+5,peak night view
+6,creative views
+7,obstructed view
+8,backlight view
+9,tower's peak close-up
+10,distant shot
+11,lightning
+12,tower in the mirror
+13,tower base taken from insid
+14,drawings
+15,surroundings seen from tower
+16,peak inside view
+17,tower inside view
+18,information placards
+19,tower base
+20,perspective view
+21,proximity view
+22,tower peak approached view
+23,night whole view
+24,winter view

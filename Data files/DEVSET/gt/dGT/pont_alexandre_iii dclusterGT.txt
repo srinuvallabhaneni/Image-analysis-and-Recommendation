@@ -1,0 +1,25 @@
+1,masonry counterweights whole view
+2,masonry counterweights partial view
+3,golden statue
+4,bridge angle view
+5,bridge partial view
+6,wood sculpture close-up
+7,creative view
+8,masonry and bridge
+9,winter
+10,bridge distant view
+11,twilight view
+12,bridge whole view
+13,on the bridge view
+14,stone sculpture close up
+15,wood sculpture
+16,stone sculpture
+17,night view
+18,bridge entrance
+19,Nymphs of the Sein
+20,floor lamp
+21,Eiffel tower view
+22,bridge narrow side view
+23,view from the bridge
+24,masonry distant view
+25,other

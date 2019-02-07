@@ -1,0 +1,14 @@
+1,frontal view
+2,sculpture
+3,statue
+4,side view
+5,partial view
+6,obstructed view
+7,close up frontal view
+8,cupola
+9,other sculptures
+10,distant shot
+11,night view
+12,inside view
+13,corner view
+14,side partial view

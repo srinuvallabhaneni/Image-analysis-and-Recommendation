@@ -1,0 +1,22 @@
+1,partial view
+2,close up
+3,whole view
+4,night view
+5,creative views
+6,inside view
+7,obstructed view
+8,distance shot
+9,night distance view
+10,noon view
+11,stereo images
+12,backlight view
+13,night airplane view
+14,airplane view
+15,details
+16,perspective view
+17,black and white
+18,drawings
+19,obstructed bridge view
+20,base view
+21,upper view at noon
+22,others

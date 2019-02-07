@@ -1,0 +1,25 @@
+1,framed/artistic view
+2,fireplace
+3,frosted glass view
+4,colored glass/hone close-up
+5,black and white
+6,view out the colored window
+7,inside video projection
+8,interior main lobby
+9,spiral ceiling chandelier view
+10,chandelier view
+11,wood/glass workmanship
+12,interior window
+13,partial roof view
+14,towers roof view
+15,clover tower view
+16,night/dawn view
+17,architectural details
+18,interior cupola/arcade halls
+19,fenced and glass floor balcony
+20,interior objects
+21,front monument view
+22,back monument view
+23,exterior window close-up
+24,informing panels/souvenirs
+25,stairs view
