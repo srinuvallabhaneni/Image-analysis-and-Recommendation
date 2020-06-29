@@ -1,4 +1,4 @@
-# Image-analysis-and-Recommendation
+# Image-analysis-and-Recommendation [prject for the course Multimedia and web Databases]
 
 How to run
 
