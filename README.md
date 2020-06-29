@@ -23,6 +23,7 @@ Once the data loading is done and the mongodb is up and running:
 As all tasks are dependent on task 1, make sure to run task 1 after data loading is done before running any task.
 Then, execute any task as needed according to the instructions on the screen.
 
+Detailed explanation for each task:
 Task 1: Implement a program which, given a value k, creates an image-image similarity graph, such that from each image, there are k outgoing edges to k most similar/related images to it.
 
 Task 2: Given the image-image graph, identify c clusters (for a user supplied c) using two distinct algorithms. You can use the graph partitioning/clustering algorithms of your choice for this task. Visualize the resulting image clusters.
