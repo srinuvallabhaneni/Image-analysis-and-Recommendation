@@ -7,3 +7,4 @@ pandas
 tensorly
 matplotlib
 docutils
+django
