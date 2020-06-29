@@ -16,6 +16,7 @@ How to use Run “python main.py” Menu Options:
 7. Load data
 8. Quit
 Please run task 8 - load data before executing any file - This is a one time process for every system.
+Once you run the program, first go with the 8th option to load all the data and then you can choose other options to perform some action on it.
 
 Once the data loading is done and the mongodb is up and running:
 
