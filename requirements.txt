@@ -8,3 +8,5 @@ tensorly
 matplotlib
 docutils
 django
+six
+
